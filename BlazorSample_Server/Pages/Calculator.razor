@@ -1,0 +1,53 @@
+@page "/calculator"
+
+<h1>Calculator</h1>
+
+<table>
+    <tr>
+        <td><button @onclick='() => DoSomething("7")'>7</button></td>
+        <td><button @onclick='() => DoSomething("8")'>8</button></td>
+        <td><button @onclick='() => DoSomething("9")'>9</button></td>
+        <td><button @onclick='() => DoSomething("/")'>/</button></td>
+    </tr>
+    <tr>
+        <td><button @onclick='() => DoSomething("4")'>4</button></td>
+        <td><button @onclick='() => DoSomething("5")'>5</button></td>
+        <td><button @onclick='() => DoSomething("6")'>6</button></td>
+        <td><button @onclick='() => DoSomething("*")'>*</button></td>
+    </tr>
+    <tr>
+        <td><button @onclick='() => DoSomething("1")'>1</button></td>
+        <td><button @onclick='() => DoSomething("2")'>2</button></td>
+        <td><button @onclick='() => DoSomething("3")'>3</button></td>
+        <td><button @onclick='() => DoSomething("-")'>-</button></td>
+    </tr>
+    <tr>
+        <td><button @onclick='() => DoSomething("0")'>0</button></td>
+        <td><button @onclick='() => DoSomething(".")'>.</button></td>
+        <td><button @onclick='() => DoSomething("+")'>+</button></td>
+        <td><button @onclick='() => DoSomething("=")'>=</button></td>
+    </tr>
+    <tr>
+        <td colspan="4"><input type="string" @bind="@output" readonly/></td>
+    </tr>
+</table>
+
+@code {
+    string output = "";
+
+    protected void DoSomething(string input) {
+        switch (input)
+        {
+            case "=":
+                DataTable dt = new DataTable();
+                Object result = dt.Compute(output, "");
+                output = result.ToString();
+                break;
+            default:
+                output += input;
+                break;
+        }
+        
+    }
+
+}

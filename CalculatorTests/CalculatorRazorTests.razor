@@ -1,0 +1,27 @@
+@attribute [TestClass]
+@inherits BunitTestContext
+@using BlazorSample.Pages;
+
+@code {
+    [TestMethod]
+	public void CalculatorAddTests()
+	{
+		// Arrange
+		var cut = Render(@<Calculator />);
+
+		// Assert that content of the paragraph shows counter at zero
+		//cut.Find("p").MarkupMatches(@<p>Current count: 0</p>);
+	}
+    [TestMethod]
+	public void CalculatorSubtractTests()
+	{
+		// Arrange
+		var cut = Render(@<Calculator />);
+
+		// Act - click button to increment counter
+		cut.Find("button").Click();
+
+		// Assert that the counter was incremented
+		//cut.Find("p").MarkupMatches(@<p>Current count: 1</p>);
+	}
+}
