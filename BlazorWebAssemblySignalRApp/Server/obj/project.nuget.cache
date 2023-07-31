@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i60TgapRK2XMODagpg+NgyzpEAjvgUBOTtTwN/ZMd2cdb6RRF54cHAtW8vxRxrxEptp6T7buCKEz1EvhndYpgg==",
+  "dgSpecHash": "TutZRk6iN+8SJl3yLWqVId6T5B6bJPEwngWlx5VyiSBEF7dhy3HXyHPeiQYteDLIFWkSJrs9Tm4VU8J13iBehg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\webreidi\\Source\\repos\\blazor-samples\\BlazorWebAssemblySignalRApp\\Server\\BlazorWebAssemblySignalRApp.Server.csproj",
+  "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorWebAssemblySignalRApp\\Server\\BlazorWebAssemblySignalRApp.Server.csproj",
   "expectedPackageFiles": [
     "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",

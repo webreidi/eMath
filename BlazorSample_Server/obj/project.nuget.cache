@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "avqkNJpD2mq+jocln2RMTvB7oarYbGYiuaM3gnnt6HOgQZo9xlaYf462fA6gfKZ68z9ygLUzhdptS21v1lyNmA==",
+  "dgSpecHash": "P006pdgP7FPoJ+pKdjy9cDJrtxyux0FOMkAETsThW/z6QSNbEWkIzfAvdeApnakb/os5tts9v7Akei0Z8hX5IA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\webreidi\\Source\\repos\\blazor-samples\\BlazorSample_Server\\BlazorSample.csproj",
+  "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorWebAssemblyScopesLogger
 build_property.RootNamespace = BlazorWebAssemblyScopesLogger
-build_property.ProjectDir = c:\Users\webreidi\Source\repos\blazor-samples\BlazorWebAssemblyScopesLogger\
+build_property.ProjectDir = c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblyScopesLogger\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\webreidi\Source\repos\blazor-samples\BlazorWebAssemblyScopesLogger
+build_property.MSBuildProjectDirectory = c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblyScopesLogger
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/App.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Pages/Counter.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Pages/FetchData.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Pages/Index.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Shared/SurveyPrompt.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/_Imports.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Shared/MainLayout.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hpb3x5c3yq
 
-[c:/Users/webreidi/Source/repos/blazor-samples/BlazorWebAssemblyScopesLogger/Shared/NavMenu.razor]
+[c:/Users/webreidi/Source/Repos/eMath/BlazorWebAssemblyScopesLogger/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y4zdpmfqms

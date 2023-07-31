@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5fvPe+4gW9pTZUox4mEe5hoP/tMwPcwweD2XTVXS3ACpFtdD/ANjU5J+VTWkjt8XMvB8hjfyZrKaEIk1htOGg==",
+  "dgSpecHash": "pPJB4E7x9IN5lBJpjES0D1oVGbG+AAMoVqRdbSLG4bce6gdf3I0Hf0YA91XkEHw7V16YYnIvFxhQW7XtVbVqUQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\webreidi\\Source\\repos\\blazor-samples\\CalculatorTests\\CalculatorTests.csproj",
+  "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\.tools\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",

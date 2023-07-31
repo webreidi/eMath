@@ -28,14 +28,15 @@
         <td><button @onclick='() => DoSomething("=")'>=</button></td>
     </tr>
     <tr>
-        <td colspan="4"><input type="string" @bind="@output" readonly/></td>
+        <td colspan="4"><input type="string" @bind="@output" label="output" name="output" readonly /></td>
     </tr>
 </table>
 
 @code {
     string output = "";
 
-    protected void DoSomething(string input) {
+    protected void DoSomething(string input)
+    {
         switch (input)
         {
             case "=":
@@ -47,7 +48,7 @@
                 output += input;
                 break;
         }
-        
+
     }
 
 }

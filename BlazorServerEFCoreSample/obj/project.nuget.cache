@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QnWrtmotQegtaIciNiMB0/R1BvJPrkYGaFhUF/H94msSQrCgOT26RoUG7DYw0752lmPKAlwLKD9Oa3M+KY27g==",
+  "dgSpecHash": "MGI6S621zplmvcf47V0vAypLrWhUW6nwnSAe4B/+QmADKUed1GlZBd1HPpds2UgT2uqsSNH94BHLuyooVqHOqQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\webreidi\\Source\\repos\\blazor-samples\\BlazorServerEFCoreSample\\BlazorServerEFCoreSample.csproj",
+  "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorServerEFCoreSample\\BlazorServerEFCoreSample.csproj",
   "expectedPackageFiles": [
     "C:\\.tools\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

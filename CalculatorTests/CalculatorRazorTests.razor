@@ -3,15 +3,29 @@
 @using BlazorSample.Pages;
 
 @code {
-    [TestMethod]
+    
+	[TestMethod]
+	public void CalculatorRendorTest()
+	{
+		var cut = Render(@<Calculator />);
+
+		cut.Find("h1").MarkupMatches(@<h1>Calculator</h1>);
+	}
+
+	[TestMethod]
 	public void CalculatorAddTests()
 	{
 		// Arrange
 		var cut = Render(@<Calculator />);
 
+		cut.Find("button").Click();
+
+		cut.Find("document.output").Matches("7");
+
 		// Assert that content of the paragraph shows counter at zero
 		//cut.Find("p").MarkupMatches(@<p>Current count: 0</p>);
 	}
+
     [TestMethod]
 	public void CalculatorSubtractTests()
 	{

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m+A8ndsFfNkEszt+sRDWEcEqnuL4wPk8dNi2kVqiwDLe1oXMbVfNVEqmqLfYByUgPO160/wzB2Ob46EiD0P6Nw==",
+  "dgSpecHash": "8y2gGvVYMvzG61YJGWbE0t1r9zK3wGpK2rhb6ruSP3b/21Ix3hgJNYFAWkaE8hu138vwCBthH5XhWiHL8hhEtQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\webreidi\\Source\\repos\\blazor-samples\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj",
+  "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorWebAssemblySignalRApp\\Client\\BlazorWebAssemblySignalRApp.Client.csproj",
   "expectedPackageFiles": [
     "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
@@ -40,7 +40,8 @@
     "C:\\.tools\\.nuget\\packages\\system.net.http.json\\7.0.0\\system.net.http.json.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }
