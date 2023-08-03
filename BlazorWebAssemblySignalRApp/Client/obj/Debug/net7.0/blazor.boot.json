@@ -209,15 +209,15 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "BlazorWebAssemblySignalRApp.Shared.dll": "sha256-HTz7G7R217KuL+JDmBvSOUWesuTz4evclLTn5+hY054=",
-      "BlazorWebAssemblySignalRApp.Client.dll": "sha256-a3Rd2iuX\/isPkqUG29zJ\/7m3q+unFipmsOTCEQteN08="
+      "BlazorWebAssemblySignalRApp.Shared.dll": "sha256-VI\/6zSkQ363\/eLqF0iDEKa6tw5M2vAVo904VMv7kpaE=",
+      "BlazorWebAssemblySignalRApp.Client.dll": "sha256-S\/tJsELbjOnvpqd+nvFEmxeadekTEi87Wzm4PclFq44="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorWebAssemblySignalRApp.Shared.pdb": "sha256-DuEWawcp6LY5LJTp4j3XM3WCb7Eh8yZ2NjTXztx74CE=",
-      "BlazorWebAssemblySignalRApp.Client.pdb": "sha256-GpCtBH5T2FbHzIAIilj8QAz42xJChFIc25a4dfyWAbc="
+      "BlazorWebAssemblySignalRApp.Shared.pdb": "sha256-5aaYX7Ansadj5QN4i2dLFaZKcCdrrUHN3aIMDeU6YQk=",
+      "BlazorWebAssemblySignalRApp.Client.pdb": "sha256-R9Fn8DBouaGfE5ez7HCuJ73VmK+Ja1d5+mdEuKayDH8="
     },
     "runtime": {
       "dotnet.7.0.9.t0lpp2arvg.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1K2htZrnNsklc3ggWiGc3jVlVVn//zfasi7tIOMvYmg=",
+  "Hash": "KqG/fgfLBSMbDeE9EzaYMxoeh3ca04HG0A59pg6d9Uc=",
   "Source": "CalculatorTests",
   "BasePath": "_content/CalculatorTests",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "BlazorSample",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "TargetFramework=net7.0",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU;TargetFramework=net7.0",
       "AdditionalPublishPropertiesToRemove": "",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "TargetFramework=net7.0",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU;TargetFramework=net7.0",
       "AdditionalBuildPropertiesToRemove": ""
     }
   ],

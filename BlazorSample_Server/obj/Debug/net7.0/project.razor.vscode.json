@@ -120,6 +120,65 @@
         }
       },
       {
+        "HashCode": 779071290,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Pages.lifecycle.OnParamsSet",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OnParamsSet"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartDate",
+            "TypeName": "System.DateTime",
+            "Metadata": {
+              "Common.PropertyName": "StartDate",
+              "Common.GloballyQualifiedTypeName": "global::System.DateTime"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Pages.lifecycle.OnParamsSet",
+          "Common.TypeNameIdentifier": "OnParamsSet",
+          "Common.TypeNamespace": "BlazorSample.Pages.lifecycle",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 838530015,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Pages.lifecycle.OnParamsSet",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Pages.lifecycle.OnParamsSet"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartDate",
+            "TypeName": "System.DateTime",
+            "Metadata": {
+              "Common.PropertyName": "StartDate",
+              "Common.GloballyQualifiedTypeName": "global::System.DateTime"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Pages.lifecycle.OnParamsSet",
+          "Common.TypeNameIdentifier": "OnParamsSet",
+          "Common.TypeNamespace": "BlazorSample.Pages.lifecycle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -658524112,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Pages.Calculator",

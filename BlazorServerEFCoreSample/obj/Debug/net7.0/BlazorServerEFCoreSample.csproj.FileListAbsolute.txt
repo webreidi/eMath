@@ -109,13 +109,14 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\B
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.MvcApplicationPartsAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.RazorAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.RazorAssemblyInfo.cs
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.sourcelink.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerEFCoreSample.Microsoft.AspNetCore.StaticWebAssets.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerEFCoreSample.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerEFCoreSample.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerEFCoreSample.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets.pack.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets.build.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\scopedcss\bundle\BlazorServerEFCoreSample.styles.css
@@ -126,4 +127,3 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\r
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\ref\BlazorServerEFCoreSample.dll
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.sourcelink.json

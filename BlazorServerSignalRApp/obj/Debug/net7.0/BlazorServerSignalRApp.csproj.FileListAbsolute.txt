@@ -53,13 +53,14 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\Bla
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.sourcelink.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
@@ -70,4 +71,3 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\ref
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll
-c:\Users\webreidi\Source\Repos\eMath\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.sourcelink.json

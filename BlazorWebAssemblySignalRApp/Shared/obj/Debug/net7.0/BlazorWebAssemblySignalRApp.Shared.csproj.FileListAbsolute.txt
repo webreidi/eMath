@@ -17,8 +17,8 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debu
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.sourcelink.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.dll
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\refint\BlazorWebAssemblySignalRApp.Shared.dll
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
-c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.sourcelink.json

@@ -82,13 +82,14 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debu
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.MvcApplicationPartsAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cs
+c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.sourcelink.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorWebAssemblySignalRApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorWebAssemblySignalRApp.Server.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebAssemblySignalRApp.Server.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorWebAssemblySignalRApp.Server.props
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets.build.json
-c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\staticwebassets.development.json
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorWebAssemblySignalRApp.Server.styles.css
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.csproj.CopyComplete
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.dll
@@ -96,4 +97,3 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debu
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\ref\BlazorWebAssemblySignalRApp.Server.dll
-c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.sourcelink.json
