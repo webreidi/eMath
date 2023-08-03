@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MGI6S621zplmvcf47V0vAypLrWhUW6nwnSAe4B/+QmADKUed1GlZBd1HPpds2UgT2uqsSNH94BHLuyooVqHOqQ==",
+  "dgSpecHash": "SgGU0P/tocMdinfS4bJaWU6+kAH32+34+0gqKLhNMMzjAvJmZADC4eEfuujVRo6kUxrtvt+f1D3rV/GhJ5rW3A==",
   "success": true,
   "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorServerEFCoreSample\\BlazorServerEFCoreSample.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,11 @@
     "C:\\.tools\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\.tools\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\.tools\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
   ],
   "logs": []
 }

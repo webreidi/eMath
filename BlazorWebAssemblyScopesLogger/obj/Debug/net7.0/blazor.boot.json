@@ -3,6 +3,9 @@
   "config": [ ],
   "debugBuild": true,
   "entryAssembly": "BlazorWebAssemblyScopesLogger",
+  "extensions": {
+    "blazor": { }
+  },
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -200,13 +203,13 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "BlazorWebAssemblyScopesLogger.dll": "sha256-sDYcyLeZZdFb5pMLAhLtIqW2gMBQYbLsOzwcDMy2nRA="
+      "BlazorWebAssemblyScopesLogger.dll": "sha256-n5b5+2nyyZYyyIiHMEP0geLsslIZY2bM34EYBke5iR8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorWebAssemblyScopesLogger.pdb": "sha256-GpgIUdk55kb9wjUy7YxS47lYiJzCA8WiHcg\/0Mwz9D0="
+      "BlazorWebAssemblyScopesLogger.pdb": "sha256-aA8hlT\/slC1Jahwx0\/WIo+AuvG2wexlizvuX5qDW8vo="
     },
     "runtime": {
       "dotnet.7.0.9.t0lpp2arvg.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",
@@ -224,5 +227,7 @@
       }
     },
     "satelliteResources": null
-  }
+  },
+  "runtimeOptions": null,
+  "startupMemoryCache": null
 }

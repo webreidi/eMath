@@ -38,7 +38,6 @@ C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\bin\Debug\net7.0\Blazor
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\bin\Debug\net7.0\BlazorSample.runtimeconfig.json
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\bin\Debug\net7.0\BlazorSample.dll
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\bin\Debug\net7.0\BlazorSample.pdb
-C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.csproj.AssemblyReference.cache
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.AssemblyInfoInputs.cache
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.AssemblyInfo.cs
@@ -62,3 +61,4 @@ C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\refint
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.pdb
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.genruntimeconfig.cache
 C:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\ref\BlazorSample.dll
+c:\Users\webreidi\Source\Repos\eMath\BlazorSample_Server\obj\Debug\net7.0\BlazorSample.sourcelink.json

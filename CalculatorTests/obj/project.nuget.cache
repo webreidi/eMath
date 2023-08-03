@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pPJB4E7x9IN5lBJpjES0D1oVGbG+AAMoVqRdbSLG4bce6gdf3I0Hf0YA91XkEHw7V16YYnIvFxhQW7XtVbVqUQ==",
+  "dgSpecHash": "/9nO4mphF+Ll8xl9P+62JVGZI6iW7hjlpGgFVCXyvgUP4LHMp7hTRT1bZz9a7RWgpBlyfoua8kf3oyNhwn5nbw==",
   "success": true,
   "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
@@ -130,7 +130,10 @@
     "C:\\.tools\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\.tools\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\.tools\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512"
   ],
   "logs": []
 }

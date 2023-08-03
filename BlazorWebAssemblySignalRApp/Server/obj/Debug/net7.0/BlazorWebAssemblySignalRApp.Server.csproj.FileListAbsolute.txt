@@ -96,3 +96,4 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debu
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+c:\Users\webreidi\Source\Repos\eMath\BlazorWebAssemblySignalRApp\Server\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Server.sourcelink.json

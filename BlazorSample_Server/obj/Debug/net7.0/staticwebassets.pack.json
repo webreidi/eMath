@@ -1,83 +1,83 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorSample.bundle.scp.css"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\files\\quote.txt",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\files\\quote.txt",
       "PackagePath": "staticwebassets\\files\\quote.txt"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image1.png",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image1.png",
       "PackagePath": "staticwebassets\\images\\image1.png"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image2.png",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image2.png",
       "PackagePath": "staticwebassets\\images\\image2.png"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image3.png",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image3.png",
       "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\mapComponent.js",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\mapComponent.js",
       "PackagePath": "staticwebassets\\mapComponent.js"
     },
     {
-      "Id": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\scripts.js",
+      "Id": "C:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\scripts.js",
       "PackagePath": "staticwebassets\\scripts.js"
     },
     {

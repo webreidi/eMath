@@ -252,3 +252,4 @@ c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\obj\Debug\net7.0\refint\Cal
 c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\obj\Debug\net7.0\CalculatorTests.pdb
 c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\obj\Debug\net7.0\CalculatorTests.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\obj\Debug\net7.0\ref\CalculatorTests.dll
+c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\obj\Debug\net7.0\CalculatorTests.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "klLKRfVu9f5G4u6wzr91qaX9G7N5tZlPtsVz61ugq06eYlUwAAjFHiVVqt7iAsBfsZU2BHbyJ3vIR1dclEWObQ==",
+  "dgSpecHash": "kVuIQmjIMRPH0fdAAIOgxpNSRak/uheQnmIDz0DFnK8c93YgUuiBSzbZ6FGNyzijbz7p1yRhaUscnI9rFqOYuA==",
   "success": true,
   "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,11 @@
     "C:\\.tools\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
-    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
   ],
   "logs": []
 }

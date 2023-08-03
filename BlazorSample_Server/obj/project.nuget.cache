@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "P006pdgP7FPoJ+pKdjy9cDJrtxyux0FOMkAETsThW/z6QSNbEWkIzfAvdeApnakb/os5tts9v7Akei0Z8hX5IA==",
+  "dgSpecHash": "b1jO//RHXuCeF+c+VB8ir2Z9bGav++xZmPnPrkv/BnAMfSzxGl4t78xfzUOMIsiMMulDv8wvNw0Gd6dNHzbCbg==",
   "success": true,
   "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

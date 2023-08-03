@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TutZRk6iN+8SJl3yLWqVId6T5B6bJPEwngWlx5VyiSBEF7dhy3HXyHPeiQYteDLIFWkSJrs9Tm4VU8J13iBehg==",
+  "dgSpecHash": "JNTMY9kuBMC8uLAi4Mu45Up0q6QjOEiVQJJXUfUuVl1BHYS9iICXatPbVdXfl3uHF6txYiyCQ9064H6HHS8SfA==",
   "success": true,
   "projectFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorWebAssemblySignalRApp\\Server\\BlazorWebAssemblySignalRApp.Server.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,11 @@
     "C:\\.tools\\.nuget\\packages\\system.net.http.json\\7.0.0\\system.net.http.json.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\.tools\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\.tools\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\.tools\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
   ],
   "logs": []
 }

@@ -126,3 +126,4 @@ c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\r
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.pdb
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.genruntimeconfig.cache
 c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\ref\BlazorServerEFCoreSample.dll
+c:\Users\webreidi\Source\Repos\eMath\BlazorServerEFCoreSample\obj\Debug\net7.0\BlazorServerEFCoreSample.sourcelink.json
