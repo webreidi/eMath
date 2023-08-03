@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\project.razor.vscode.json",
-  "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
+  "SerializedFilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\project.razor.vscode.json",
+  "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -9,81 +9,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 472489054,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.index.RazorTemplate",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RazorTemplate"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.index.RazorTemplate",
-          "Common.TypeNameIdentifier": "RazorTemplate",
-          "Common.TypeNamespace": "BlazorSample.Pages.index",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 370612459,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.index.RazorTemplate",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.index.RazorTemplate"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.index.RazorTemplate",
-          "Common.TypeNameIdentifier": "RazorTemplate",
-          "Common.TypeNamespace": "BlazorSample.Pages.index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -819179373,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.index.MarkupStringExample",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MarkupStringExample"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.index.MarkupStringExample",
-          "Common.TypeNameIdentifier": "MarkupStringExample",
-          "Common.TypeNamespace": "BlazorSample.Pages.index",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 902601049,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.index.MarkupStringExample",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.index.MarkupStringExample"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.index.MarkupStringExample",
-          "Common.TypeNameIdentifier": "MarkupStringExample",
-          "Common.TypeNamespace": "BlazorSample.Pages.index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1611979507,
+        "HashCode": 2058138196,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Pages.CallJsExample7",
         "AssemblyName": "BlazorSample",
@@ -101,7 +27,7 @@
         }
       },
       {
-        "HashCode": 199426935,
+        "HashCode": -409203289,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Pages.CallJsExample7",
         "AssemblyName": "BlazorSample",
@@ -120,473 +46,44 @@
         }
       },
       {
-        "HashCode": 779071290,
+        "HashCode": -1394976401,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.lifecycle.OnParamsSet",
+        "Name": "BlazorSample.Pages.control_head_content.ControlHeadContent",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "OnParamsSet"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "StartDate",
-            "TypeName": "System.DateTime",
-            "Metadata": {
-              "Common.PropertyName": "StartDate",
-              "Common.GloballyQualifiedTypeName": "global::System.DateTime"
-            }
+            "TagName": "ControlHeadContent"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.lifecycle.OnParamsSet",
-          "Common.TypeNameIdentifier": "OnParamsSet",
-          "Common.TypeNamespace": "BlazorSample.Pages.lifecycle",
+          "Common.TypeName": "BlazorSample.Pages.control_head_content.ControlHeadContent",
+          "Common.TypeNameIdentifier": "ControlHeadContent",
+          "Common.TypeNamespace": "BlazorSample.Pages.control_head_content",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": 838530015,
+        "HashCode": -1231718372,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.lifecycle.OnParamsSet",
+        "Name": "BlazorSample.Pages.control_head_content.ControlHeadContent",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSample.Pages.lifecycle.OnParamsSet"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "StartDate",
-            "TypeName": "System.DateTime",
-            "Metadata": {
-              "Common.PropertyName": "StartDate",
-              "Common.GloballyQualifiedTypeName": "global::System.DateTime"
-            }
+            "TagName": "BlazorSample.Pages.control_head_content.ControlHeadContent"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.lifecycle.OnParamsSet",
-          "Common.TypeNameIdentifier": "OnParamsSet",
-          "Common.TypeNamespace": "BlazorSample.Pages.lifecycle",
+          "Common.TypeName": "BlazorSample.Pages.control_head_content.ControlHeadContent",
+          "Common.TypeNameIdentifier": "ControlHeadContent",
+          "Common.TypeNamespace": "BlazorSample.Pages.control_head_content",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -658524112,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.Calculator",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Calculator"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.Calculator",
-          "Common.TypeNameIdentifier": "Calculator",
-          "Common.TypeNamespace": "BlazorSample.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 351546909,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.Calculator",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.Calculator"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.Calculator",
-          "Common.TypeNameIdentifier": "Calculator",
-          "Common.TypeNamespace": "BlazorSample.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1313642856,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_js_from_dotnet.CallJsExample8",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CallJsExample8"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_js_from_dotnet.CallJsExample8",
-          "Common.TypeNameIdentifier": "CallJsExample8",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_js_from_dotnet",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1017444198,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_js_from_dotnet.CallJsExample8",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.call_js_from_dotnet.CallJsExample8"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_js_from_dotnet.CallJsExample8",
-          "Common.TypeNameIdentifier": "CallJsExample8",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_js_from_dotnet",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1538581476,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample6",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CallDotNetExample6"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample6",
-          "Common.TypeNameIdentifier": "CallDotNetExample6",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_dotnet_from_js",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 676129767,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample6",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample6"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample6",
-          "Common.TypeNameIdentifier": "CallDotNetExample6",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_dotnet_from_js",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1865595765,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample3",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CallDotNetExample3"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample3",
-          "Common.TypeNameIdentifier": "CallDotNetExample3",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_dotnet_from_js",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 207426640,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample3",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample3"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.call_dotnet_from_js.CallDotNetExample3",
-          "Common.TypeNameIdentifier": "CallDotNetExample3",
-          "Common.TypeNamespace": "BlazorSample.Pages.call_dotnet_from_js",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1369454827,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.forms_and_validation.FormExample7",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FormExample7"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.forms_and_validation.FormExample7",
-          "Common.TypeNameIdentifier": "FormExample7",
-          "Common.TypeNamespace": "BlazorSample.Pages.forms_and_validation",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1500491034,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.forms_and_validation.FormExample7",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.forms_and_validation.FormExample7"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.forms_and_validation.FormExample7",
-          "Common.TypeNameIdentifier": "FormExample7",
-          "Common.TypeNamespace": "BlazorSample.Pages.forms_and_validation",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1753341120,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.data_binding.BindEvent",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BindEvent"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.data_binding.BindEvent",
-          "Common.TypeNameIdentifier": "BindEvent",
-          "Common.TypeNamespace": "BlazorSample.Pages.data_binding",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1297303404,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.data_binding.BindEvent",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.data_binding.BindEvent"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.data_binding.BindEvent",
-          "Common.TypeNameIdentifier": "BindEvent",
-          "Common.TypeNamespace": "BlazorSample.Pages.data_binding",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 963258584,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.data_binding.UnparsableValues",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UnparsableValues"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.data_binding.UnparsableValues",
-          "Common.TypeNameIdentifier": "UnparsableValues",
-          "Common.TypeNamespace": "BlazorSample.Pages.data_binding",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -959576652,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.data_binding.UnparsableValues",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.data_binding.UnparsableValues"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.data_binding.UnparsableValues",
-          "Common.TypeNameIdentifier": "UnparsableValues",
-          "Common.TypeNamespace": "BlazorSample.Pages.data_binding",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -968421031,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.routing.Navigate",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Navigate"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.routing.Navigate",
-          "Common.TypeNameIdentifier": "Navigate",
-          "Common.TypeNamespace": "BlazorSample.Pages.routing",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -142437521,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.routing.Navigate",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.routing.Navigate"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.routing.Navigate",
-          "Common.TypeNameIdentifier": "Navigate",
-          "Common.TypeNamespace": "BlazorSample.Pages.routing",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1674090834,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.rendering.CounterState1",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CounterState1"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.rendering.CounterState1",
-          "Common.TypeNameIdentifier": "CounterState1",
-          "Common.TypeNamespace": "BlazorSample.Pages.rendering",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -147565911,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.rendering.CounterState1",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.rendering.CounterState1"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.rendering.CounterState1",
-          "Common.TypeNameIdentifier": "CounterState1",
-          "Common.TypeNamespace": "BlazorSample.Pages.rendering",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1983973212,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.event_handling.EventHandlerExample4",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EventHandlerExample4"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.event_handling.EventHandlerExample4",
-          "Common.TypeNameIdentifier": "EventHandlerExample4",
-          "Common.TypeNamespace": "BlazorSample.Pages.event_handling",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1649250360,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.event_handling.EventHandlerExample4",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.event_handling.EventHandlerExample4"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.event_handling.EventHandlerExample4",
-          "Common.TypeNameIdentifier": "EventHandlerExample4",
-          "Common.TypeNamespace": "BlazorSample.Pages.event_handling",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 695624261,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.prerendering.PrerenderedInterop2",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PrerenderedInterop2"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.prerendering.PrerenderedInterop2",
-          "Common.TypeNameIdentifier": "PrerenderedInterop2",
-          "Common.TypeNamespace": "BlazorSample.Pages.prerendering",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1294055530,
-        "Kind": "Components.Component",
-        "Name": "BlazorSample.Pages.prerendering.PrerenderedInterop2",
-        "AssemblyName": "BlazorSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSample.Pages.prerendering.PrerenderedInterop2"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorSample.Pages.prerendering.PrerenderedInterop2",
-          "Common.TypeNameIdentifier": "PrerenderedInterop2",
-          "Common.TypeNamespace": "BlazorSample.Pages.prerendering",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1111167153,
+        "HashCode": 729480702,
         "Kind": "Components.Component",
         "Name": "BlazorSample.BlazorRocksBase",
         "AssemblyName": "BlazorSample",
@@ -604,7 +101,7 @@
         }
       },
       {
-        "HashCode": -503666554,
+        "HashCode": -740783029,
         "Kind": "Components.Component",
         "Name": "BlazorSample.BlazorRocksBase",
         "AssemblyName": "BlazorSample",
@@ -623,7 +120,7 @@
         }
       },
       {
-        "HashCode": -801561582,
+        "HashCode": 452931312,
         "Kind": "Components.Component",
         "Name": "BlazorSample.CustomValidation",
         "AssemblyName": "BlazorSample",
@@ -641,7 +138,7 @@
         }
       },
       {
-        "HashCode": 1138343943,
+        "HashCode": -2049507002,
         "Kind": "Components.Component",
         "Name": "BlazorSample.CustomValidation",
         "AssemblyName": "BlazorSample",
@@ -660,66 +157,367 @@
         }
       },
       {
-        "HashCode": -233048032,
+        "HashCode": -546537253,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Shared.SurveyPrompt",
+        "Name": "BlazorSample.Shared.dynamiccomponent.UnitedLaunchAlliance",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
+            "TagName": "UnitedLaunchAlliance"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "BlazorSample.Shared",
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.UnitedLaunchAlliance",
+          "Common.TypeNameIdentifier": "UnitedLaunchAlliance",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1144408858,
+        "HashCode": -704988151,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Shared.SurveyPrompt",
+        "Name": "BlazorSample.Shared.dynamiccomponent.UnitedLaunchAlliance",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSample.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
+            "TagName": "BlazorSample.Shared.dynamiccomponent.UnitedLaunchAlliance"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "BlazorSample.Shared",
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.UnitedLaunchAlliance",
+          "Common.TypeNameIdentifier": "UnitedLaunchAlliance",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -45248339,
+        "HashCode": -366236791,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.RocketLabWithWindowSeat",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RocketLabWithWindowSeat"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "WindowSeat",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "WindowSeat",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.RocketLabWithWindowSeat",
+          "Common.TypeNameIdentifier": "RocketLabWithWindowSeat",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1159192988,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.RocketLabWithWindowSeat",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.dynamiccomponent.RocketLabWithWindowSeat"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "WindowSeat",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "WindowSeat",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.RocketLabWithWindowSeat",
+          "Common.TypeNameIdentifier": "RocketLabWithWindowSeat",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 560644853,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.SpaceX",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SpaceX"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.SpaceX",
+          "Common.TypeNameIdentifier": "SpaceX",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1749001258,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.SpaceX",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.dynamiccomponent.SpaceX"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.SpaceX",
+          "Common.TypeNameIdentifier": "SpaceX",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -912187608,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.RocketLab",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RocketLab"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.RocketLab",
+          "Common.TypeNameIdentifier": "RocketLab",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 106188409,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.RocketLab",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.dynamiccomponent.RocketLab"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.RocketLab",
+          "Common.TypeNameIdentifier": "RocketLab",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -827524966,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.VirginGalactic",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VirginGalactic"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.VirginGalactic",
+          "Common.TypeNameIdentifier": "VirginGalactic",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1782669509,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.dynamiccomponent.VirginGalactic",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.dynamiccomponent.VirginGalactic"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.dynamiccomponent.VirginGalactic",
+          "Common.TypeNameIdentifier": "VirginGalactic",
+          "Common.TypeNamespace": "BlazorSample.Shared.dynamiccomponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1712111269,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.call_dotnet_from_js.ListItem2",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListItem2"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.call_dotnet_from_js.ListItem2",
+          "Common.TypeNameIdentifier": "ListItem2",
+          "Common.TypeNamespace": "BlazorSample.Shared.call_dotnet_from_js",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -384683191,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.call_dotnet_from_js.ListItem2",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.call_dotnet_from_js.ListItem2"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.call_dotnet_from_js.ListItem2",
+          "Common.TypeNameIdentifier": "ListItem2",
+          "Common.TypeNamespace": "BlazorSample.Shared.call_dotnet_from_js",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1707518237,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.call_dotnet_from_js.ListItem1",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListItem1"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.call_dotnet_from_js.ListItem1",
+          "Common.TypeNameIdentifier": "ListItem1",
+          "Common.TypeNamespace": "BlazorSample.Shared.call_dotnet_from_js",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -821659959,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.call_dotnet_from_js.ListItem1",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.call_dotnet_from_js.ListItem1"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.call_dotnet_from_js.ListItem1",
+          "Common.TypeNameIdentifier": "ListItem1",
+          "Common.TypeNamespace": "BlazorSample.Shared.call_dotnet_from_js",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -239794856,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.data_binding.ChildBind",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildBind"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Year",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "Year",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "YearChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "YearChanged",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::System.Int32>",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.data_binding.ChildBind",
+          "Common.TypeNameIdentifier": "ChildBind",
+          "Common.TypeNamespace": "BlazorSample.Shared.data_binding",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1626958584,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.Shared.data_binding.ChildBind",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.data_binding.ChildBind"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Year",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "Year",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "YearChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "YearChanged",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::System.Int32>",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.data_binding.ChildBind",
+          "Common.TypeNameIdentifier": "ChildBind",
+          "Common.TypeNamespace": "BlazorSample.Shared.data_binding",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1851960463,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Shared.build_a_blazor_app.NavMenu",
         "AssemblyName": "BlazorSample",
@@ -737,7 +535,7 @@
         }
       },
       {
-        "HashCode": -240232108,
+        "HashCode": 376534020,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Shared.build_a_blazor_app.NavMenu",
         "AssemblyName": "BlazorSample",
@@ -756,7 +554,7 @@
         }
       },
       {
-        "HashCode": -545035112,
+        "HashCode": 208456913,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Shared.advanced_scenarios.PetDetails",
         "AssemblyName": "BlazorSample",
@@ -785,7 +583,7 @@
         }
       },
       {
-        "HashCode": 1502396570,
+        "HashCode": -1382131528,
         "Kind": "Components.Component",
         "Name": "BlazorSample.Shared.advanced_scenarios.PetDetails",
         "AssemblyName": "BlazorSample",
@@ -815,113 +613,155 @@
         }
       },
       {
-        "HashCode": 689547503,
+        "HashCode": 493921032,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Shared.MainLayout",
+        "Name": "BlazorSample.routing.App1",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "App1"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.MainLayout",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Common.TypeNamespace": "BlazorSample.Shared",
+          "Common.TypeName": "BlazorSample.routing.App1",
+          "Common.TypeNameIdentifier": "App1",
+          "Common.TypeNamespace": "BlazorSample.routing",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1202045139,
+        "HashCode": 871302543,
         "Kind": "Components.Component",
-        "Name": "BlazorSample.Shared.MainLayout",
+        "Name": "BlazorSample.routing.App1",
         "AssemblyName": "BlazorSample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSample.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "BlazorSample.routing.App1"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.MainLayout",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Common.TypeNamespace": "BlazorSample.Shared",
+          "Common.TypeName": "BlazorSample.routing.App1",
+          "Common.TypeNameIdentifier": "App1",
+          "Common.TypeNamespace": "BlazorSample.routing",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -269807411,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorSample.Shared.MainLayout.Body",
+        "HashCode": 1542565304,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.routing.App2",
         "AssemblyName": "BlazorSample",
-        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
+            "TagName": "App2"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.MainLayout.Body",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Common.TypeNamespace": "BlazorSample.Shared",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Runtime.Name": "Components.None"
+          "Common.TypeName": "BlazorSample.routing.App2",
+          "Common.TypeNameIdentifier": "App2",
+          "Common.TypeNamespace": "BlazorSample.routing",
+          "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -2045792565,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorSample.Shared.MainLayout.Body",
+        "HashCode": 1370345126,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.routing.App2",
         "AssemblyName": "BlazorSample",
-        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Body",
-            "ParentTag": "BlazorSample.Shared.MainLayout"
+            "TagName": "BlazorSample.routing.App2"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "BlazorSample.Shared.MainLayout.Body",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Common.TypeNamespace": "BlazorSample.Shared",
-          "Components.IsSpecialKind": "Components.ChildContent",
+          "Common.TypeName": "BlazorSample.routing.App2",
+          "Common.TypeNameIdentifier": "App2",
+          "Common.TypeNamespace": "BlazorSample.routing",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.None"
+          "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -233046306,
+        "HashCode": 1907039301,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.App",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "BlazorSample",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 152292660,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.App",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "BlazorSample",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -487263024,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.layouts.App1",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App1"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.layouts.App1",
+          "Common.TypeNameIdentifier": "App1",
+          "Common.TypeNamespace": "BlazorSample.layouts",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 2063218579,
+        "Kind": "Components.Component",
+        "Name": "BlazorSample.layouts.App1",
+        "AssemblyName": "BlazorSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.layouts.App1"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.layouts.App1",
+          "Common.TypeNameIdentifier": "App1",
+          "Common.TypeNamespace": "BlazorSample.layouts",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 2103848526,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1026,7 +866,7 @@
         }
       },
       {
-        "HashCode": -1314022498,
+        "HashCode": 801581969,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1132,7 +972,7 @@
         }
       },
       {
-        "HashCode": 1865027150,
+        "HashCode": 683049933,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1165,7 +1005,7 @@
         }
       },
       {
-        "HashCode": 538538572,
+        "HashCode": -163334573,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1199,7 +1039,7 @@
         }
       },
       {
-        "HashCode": -1087988020,
+        "HashCode": 878722069,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1271,7 +1111,7 @@
         }
       },
       {
-        "HashCode": -456075824,
+        "HashCode": 828512321,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1344,7 +1184,7 @@
         }
       },
       {
-        "HashCode": 220228,
+        "HashCode": -1404142441,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1452,7 +1292,7 @@
         }
       },
       {
-        "HashCode": 1482065275,
+        "HashCode": 422301237,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1561,7 +1401,7 @@
         }
       },
       {
-        "HashCode": -122511134,
+        "HashCode": -1619276797,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1603,7 +1443,7 @@
         }
       },
       {
-        "HashCode": 126082578,
+        "HashCode": 1333252240,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1646,7 +1486,7 @@
         }
       },
       {
-        "HashCode": 341695314,
+        "HashCode": 1631201490,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1743,7 +1583,7 @@
         }
       },
       {
-        "HashCode": -443722387,
+        "HashCode": -685878740,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1841,7 +1681,7 @@
         }
       },
       {
-        "HashCode": 1737520180,
+        "HashCode": -1121221866,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1905,7 +1745,7 @@
         }
       },
       {
-        "HashCode": 1499523556,
+        "HashCode": 844914871,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1970,7 +1810,7 @@
         }
       },
       {
-        "HashCode": -595991165,
+        "HashCode": 313961367,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2078,7 +1918,7 @@
         }
       },
       {
-        "HashCode": -119900495,
+        "HashCode": -1418914046,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2187,7 +2027,7 @@
         }
       },
       {
-        "HashCode": 443610754,
+        "HashCode": -1908840489,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2208,7 +2048,7 @@
         }
       },
       {
-        "HashCode": -1094100586,
+        "HashCode": -1978314592,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2230,7 +2070,7 @@
         }
       },
       {
-        "HashCode": 640586032,
+        "HashCode": 445022790,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2328,7 +2168,7 @@
         }
       },
       {
-        "HashCode": 953435788,
+        "HashCode": 1225391290,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2427,7 +2267,7 @@
         }
       },
       {
-        "HashCode": -728153119,
+        "HashCode": -1516428527,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2448,7 +2288,7 @@
         }
       },
       {
-        "HashCode": -487007545,
+        "HashCode": -1945175085,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2470,7 +2310,7 @@
         }
       },
       {
-        "HashCode": 900107102,
+        "HashCode": 528506424,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2542,7 +2382,7 @@
         }
       },
       {
-        "HashCode": -565173912,
+        "HashCode": -1635560898,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2615,7 +2455,7 @@
         }
       },
       {
-        "HashCode": 1871617783,
+        "HashCode": -1550190277,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2687,7 +2527,7 @@
         }
       },
       {
-        "HashCode": -1115558600,
+        "HashCode": 542349145,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2760,7 +2600,7 @@
         }
       },
       {
-        "HashCode": 879446775,
+        "HashCode": 1674527849,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2814,7 +2654,7 @@
         }
       },
       {
-        "HashCode": -1096224043,
+        "HashCode": -2015117710,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2869,7 +2709,7 @@
         }
       },
       {
-        "HashCode": 1536345515,
+        "HashCode": -1113324848,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2910,7 +2750,7 @@
         }
       },
       {
-        "HashCode": -999980864,
+        "HashCode": -1102856105,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2952,7 +2792,7 @@
         }
       },
       {
-        "HashCode": -453440727,
+        "HashCode": 132121391,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2993,7 +2833,7 @@
         }
       },
       {
-        "HashCode": 300034712,
+        "HashCode": -574180633,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3035,7 +2875,7 @@
         }
       },
       {
-        "HashCode": 767303493,
+        "HashCode": 1370919964,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3077,7 +2917,7 @@
         }
       },
       {
-        "HashCode": 574242745,
+        "HashCode": -916555917,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3120,7 +2960,7 @@
         }
       },
       {
-        "HashCode": 428923384,
+        "HashCode": -1592604265,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3183,7 +3023,7 @@
         }
       },
       {
-        "HashCode": -207295833,
+        "HashCode": -1004428066,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3247,7 +3087,7 @@
         }
       },
       {
-        "HashCode": 1488490380,
+        "HashCode": -2053415448,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3268,7 +3108,7 @@
         }
       },
       {
-        "HashCode": -7776239,
+        "HashCode": -1820240651,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3290,7 +3130,7 @@
         }
       },
       {
-        "HashCode": -821412507,
+        "HashCode": 1687563306,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3322,7 +3162,7 @@
         }
       },
       {
-        "HashCode": -644479415,
+        "HashCode": 1272558136,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3355,7 +3195,7 @@
         }
       },
       {
-        "HashCode": -468964122,
+        "HashCode": 274737251,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3376,7 +3216,7 @@
         }
       },
       {
-        "HashCode": 2031898396,
+        "HashCode": 1330891147,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3398,7 +3238,7 @@
         }
       },
       {
-        "HashCode": -831204263,
+        "HashCode": -1299118682,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3417,7 +3257,7 @@
         }
       },
       {
-        "HashCode": -1017103178,
+        "HashCode": -1614966412,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3437,7 +3277,7 @@
         }
       },
       {
-        "HashCode": -1136936513,
+        "HashCode": 1892958257,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3469,7 +3309,7 @@
         }
       },
       {
-        "HashCode": 2115302163,
+        "HashCode": -1745013943,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3502,7 +3342,7 @@
         }
       },
       {
-        "HashCode": 829858614,
+        "HashCode": -130242018,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3523,7 +3363,7 @@
         }
       },
       {
-        "HashCode": 815287848,
+        "HashCode": 33822584,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3545,7 +3385,7 @@
         }
       },
       {
-        "HashCode": 558089015,
+        "HashCode": -964652124,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3608,7 +3448,7 @@
         }
       },
       {
-        "HashCode": 497264695,
+        "HashCode": 1908458590,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3672,7 +3512,7 @@
         }
       },
       {
-        "HashCode": 25761531,
+        "HashCode": 2048999378,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3693,7 +3533,7 @@
         }
       },
       {
-        "HashCode": 1017453265,
+        "HashCode": -159802394,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3715,7 +3555,7 @@
         }
       },
       {
-        "HashCode": 163146133,
+        "HashCode": 25392326,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3748,7 +3588,7 @@
         }
       },
       {
-        "HashCode": -1690349784,
+        "HashCode": -1970446324,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3782,7 +3622,7 @@
         }
       },
       {
-        "HashCode": 1161746175,
+        "HashCode": 1884343167,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3914,7 +3754,7 @@
         }
       },
       {
-        "HashCode": 141740592,
+        "HashCode": 1275385313,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4047,7 +3887,7 @@
         }
       },
       {
-        "HashCode": 775875241,
+        "HashCode": -1442164821,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4080,7 +3920,7 @@
         }
       },
       {
-        "HashCode": -711545277,
+        "HashCode": 1331066232,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4114,7 +3954,7 @@
         }
       },
       {
-        "HashCode": -148654912,
+        "HashCode": 1041074305,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4147,7 +3987,7 @@
         }
       },
       {
-        "HashCode": -2011007369,
+        "HashCode": 1071502942,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4181,7 +4021,7 @@
         }
       },
       {
-        "HashCode": 642414502,
+        "HashCode": -1947254476,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4214,7 +4054,7 @@
         }
       },
       {
-        "HashCode": 7244136,
+        "HashCode": -826698753,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4248,7 +4088,7 @@
         }
       },
       {
-        "HashCode": -1034151967,
+        "HashCode": -1422102404,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -4267,7 +4107,7 @@
         }
       },
       {
-        "HashCode": -1784001252,
+        "HashCode": -2034628700,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -4287,7 +4127,7 @@
         }
       },
       {
-        "HashCode": 628205362,
+        "HashCode": -1813081851,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4371,7 +4211,7 @@
         }
       },
       {
-        "HashCode": -65270878,
+        "HashCode": 1523859576,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4456,7 +4296,7 @@
         }
       },
       {
-        "HashCode": 1435464456,
+        "HashCode": 1451562378,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4489,7 +4329,7 @@
         }
       },
       {
-        "HashCode": -1756486666,
+        "HashCode": 653041565,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4523,7 +4363,7 @@
         }
       },
       {
-        "HashCode": 1416082876,
+        "HashCode": -214646591,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4544,7 +4384,7 @@
         }
       },
       {
-        "HashCode": 670125127,
+        "HashCode": -1070561919,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4566,7 +4406,7 @@
         }
       },
       {
-        "HashCode": 720720533,
+        "HashCode": 1051151022,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4671,7 +4511,7 @@
         }
       },
       {
-        "HashCode": -57354339,
+        "HashCode": -1392326575,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4777,7 +4617,7 @@
         }
       },
       {
-        "HashCode": -823451147,
+        "HashCode": 1705925816,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4810,7 +4650,7 @@
         }
       },
       {
-        "HashCode": 489366661,
+        "HashCode": 118696112,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4844,7 +4684,7 @@
         }
       },
       {
-        "HashCode": -1342297019,
+        "HashCode": -1646737953,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4877,7 +4717,7 @@
         }
       },
       {
-        "HashCode": 1135718171,
+        "HashCode": -853402248,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4911,7 +4751,7 @@
         }
       },
       {
-        "HashCode": 1445560917,
+        "HashCode": -1174319674,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4944,7 +4784,7 @@
         }
       },
       {
-        "HashCode": 1831667345,
+        "HashCode": 1267139704,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4978,7 +4818,7 @@
         }
       },
       {
-        "HashCode": 116806565,
+        "HashCode": 1706353803,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -4999,7 +4839,7 @@
         }
       },
       {
-        "HashCode": -2018621227,
+        "HashCode": 2110374152,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -5021,7 +4861,7 @@
         }
       },
       {
-        "HashCode": -691141015,
+        "HashCode": 2003049173,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -5052,7 +4892,7 @@
         }
       },
       {
-        "HashCode": 1806480244,
+        "HashCode": -157942497,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -5084,7 +4924,7 @@
         }
       },
       {
-        "HashCode": -1285338429,
+        "HashCode": 507948592,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -5105,7 +4945,7 @@
         }
       },
       {
-        "HashCode": -496224660,
+        "HashCode": 1918780894,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -5127,7 +4967,7 @@
         }
       },
       {
-        "HashCode": 1105548192,
+        "HashCode": -909412052,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5202,7 +5042,7 @@
         }
       },
       {
-        "HashCode": -1403602745,
+        "HashCode": 791467975,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5278,7 +5118,7 @@
         }
       },
       {
-        "HashCode": 400678068,
+        "HashCode": 2064172607,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5299,7 +5139,7 @@
         }
       },
       {
-        "HashCode": 331539149,
+        "HashCode": -287072272,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5321,7 +5161,7 @@
         }
       },
       {
-        "HashCode": -1726018847,
+        "HashCode": 1829321362,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5363,7 +5203,7 @@
         }
       },
       {
-        "HashCode": -1263939367,
+        "HashCode": 484236079,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5406,7 +5246,7 @@
         }
       },
       {
-        "HashCode": 1001609939,
+        "HashCode": -399563591,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5448,7 +5288,7 @@
         }
       },
       {
-        "HashCode": -351410793,
+        "HashCode": 1951591155,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5491,7 +5331,7 @@
         }
       },
       {
-        "HashCode": 1250092627,
+        "HashCode": 1382083832,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5512,7 +5352,7 @@
         }
       },
       {
-        "HashCode": -252394959,
+        "HashCode": -1423145102,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5534,7 +5374,7 @@
         }
       },
       {
-        "HashCode": 335079419,
+        "HashCode": 1734552595,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5576,7 +5416,7 @@
         }
       },
       {
-        "HashCode": 748458128,
+        "HashCode": -1842345610,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5619,7 +5459,7 @@
         }
       },
       {
-        "HashCode": -136673680,
+        "HashCode": -2072373202,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5727,7 +5567,7 @@
         }
       },
       {
-        "HashCode": -314634749,
+        "HashCode": -1335959333,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5836,7 +5676,7 @@
         }
       },
       {
-        "HashCode": 1294657848,
+        "HashCode": 615871112,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5857,7 +5697,7 @@
         }
       },
       {
-        "HashCode": -1278383623,
+        "HashCode": 82164536,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5879,7 +5719,7 @@
         }
       },
       {
-        "HashCode": 1174001086,
+        "HashCode": 1583265455,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5912,7 +5752,7 @@
         }
       },
       {
-        "HashCode": 1223639733,
+        "HashCode": -686669227,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5946,7 +5786,7 @@
         }
       },
       {
-        "HashCode": 1234148951,
+        "HashCode": 308177376,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5967,7 +5807,7 @@
         }
       },
       {
-        "HashCode": -1163653473,
+        "HashCode": 1239631983,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5989,7 +5829,7 @@
         }
       },
       {
-        "HashCode": -1818189645,
+        "HashCode": -1684888280,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6072,7 +5912,7 @@
         }
       },
       {
-        "HashCode": -2021915335,
+        "HashCode": 497639803,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6155,7 +5995,7 @@
         }
       },
       {
-        "HashCode": 973412835,
+        "HashCode": 297151740,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6238,7 +6078,7 @@
         }
       },
       {
-        "HashCode": 341339690,
+        "HashCode": 1769054074,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6321,7 +6161,7 @@
         }
       },
       {
-        "HashCode": 435010561,
+        "HashCode": -1647212613,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6404,7 +6244,7 @@
         }
       },
       {
-        "HashCode": -937108129,
+        "HashCode": 1051293943,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6487,7 +6327,7 @@
         }
       },
       {
-        "HashCode": 1844056391,
+        "HashCode": -262693686,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6570,7 +6410,7 @@
         }
       },
       {
-        "HashCode": -252302598,
+        "HashCode": 1426844519,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6653,7 +6493,7 @@
         }
       },
       {
-        "HashCode": 1834744147,
+        "HashCode": -741074378,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6736,7 +6576,7 @@
         }
       },
       {
-        "HashCode": 956172589,
+        "HashCode": -5038810,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6819,7 +6659,7 @@
         }
       },
       {
-        "HashCode": 1414469839,
+        "HashCode": -1523425460,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6902,7 +6742,7 @@
         }
       },
       {
-        "HashCode": 1069172219,
+        "HashCode": -1604144966,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6985,7 +6825,7 @@
         }
       },
       {
-        "HashCode": 1125075200,
+        "HashCode": 412884715,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7068,7 +6908,7 @@
         }
       },
       {
-        "HashCode": -169107079,
+        "HashCode": 1668572737,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7151,7 +6991,7 @@
         }
       },
       {
-        "HashCode": -1673626500,
+        "HashCode": -615272550,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7234,7 +7074,7 @@
         }
       },
       {
-        "HashCode": -1577515744,
+        "HashCode": -349128424,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7317,7 +7157,7 @@
         }
       },
       {
-        "HashCode": 608448433,
+        "HashCode": 876334597,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7400,7 +7240,7 @@
         }
       },
       {
-        "HashCode": -538757157,
+        "HashCode": -38548701,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7483,7 +7323,7 @@
         }
       },
       {
-        "HashCode": -464218246,
+        "HashCode": -1225263791,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7566,7 +7406,7 @@
         }
       },
       {
-        "HashCode": 696574579,
+        "HashCode": -442705819,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7649,7 +7489,7 @@
         }
       },
       {
-        "HashCode": 839955414,
+        "HashCode": 1908125039,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7732,7 +7572,7 @@
         }
       },
       {
-        "HashCode": 1242608786,
+        "HashCode": -429016530,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7815,7 +7655,7 @@
         }
       },
       {
-        "HashCode": -1300774587,
+        "HashCode": 1874201886,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7898,7 +7738,7 @@
         }
       },
       {
-        "HashCode": 663639096,
+        "HashCode": -263105030,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7981,7 +7821,7 @@
         }
       },
       {
-        "HashCode": -343148714,
+        "HashCode": -708262290,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8064,7 +7904,7 @@
         }
       },
       {
-        "HashCode": 373268120,
+        "HashCode": 1971373274,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8147,7 +7987,7 @@
         }
       },
       {
-        "HashCode": -678439455,
+        "HashCode": -1677642023,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8230,7 +8070,7 @@
         }
       },
       {
-        "HashCode": 1161616731,
+        "HashCode": 216180672,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8313,7 +8153,7 @@
         }
       },
       {
-        "HashCode": -667215560,
+        "HashCode": -1866105691,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8396,7 +8236,7 @@
         }
       },
       {
-        "HashCode": -1364048494,
+        "HashCode": 1336690842,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8479,7 +8319,7 @@
         }
       },
       {
-        "HashCode": -781678582,
+        "HashCode": 418281597,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8562,7 +8402,7 @@
         }
       },
       {
-        "HashCode": 1558252085,
+        "HashCode": 170858626,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8645,7 +8485,7 @@
         }
       },
       {
-        "HashCode": -1434993185,
+        "HashCode": -1170219634,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8728,7 +8568,7 @@
         }
       },
       {
-        "HashCode": 404798240,
+        "HashCode": -631831860,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8811,7 +8651,7 @@
         }
       },
       {
-        "HashCode": -1594366616,
+        "HashCode": -2082647180,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8894,7 +8734,7 @@
         }
       },
       {
-        "HashCode": 1677532702,
+        "HashCode": -1835619003,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8977,7 +8817,7 @@
         }
       },
       {
-        "HashCode": 1843477442,
+        "HashCode": -1583029517,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9060,7 +8900,7 @@
         }
       },
       {
-        "HashCode": -750512099,
+        "HashCode": 1097152873,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9143,7 +8983,7 @@
         }
       },
       {
-        "HashCode": -346840165,
+        "HashCode": -1264351941,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9226,7 +9066,7 @@
         }
       },
       {
-        "HashCode": -1517505255,
+        "HashCode": 1048475450,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9309,7 +9149,7 @@
         }
       },
       {
-        "HashCode": -19600943,
+        "HashCode": 1431335822,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9392,7 +9232,7 @@
         }
       },
       {
-        "HashCode": 1439228258,
+        "HashCode": -1875153122,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9475,7 +9315,7 @@
         }
       },
       {
-        "HashCode": 1918658170,
+        "HashCode": -1016776170,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9558,7 +9398,7 @@
         }
       },
       {
-        "HashCode": 66791792,
+        "HashCode": 804718992,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9641,7 +9481,7 @@
         }
       },
       {
-        "HashCode": 1981649386,
+        "HashCode": 362878081,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9724,7 +9564,7 @@
         }
       },
       {
-        "HashCode": -423126968,
+        "HashCode": -1310331397,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9807,7 +9647,7 @@
         }
       },
       {
-        "HashCode": -1991516539,
+        "HashCode": 723241940,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9890,7 +9730,7 @@
         }
       },
       {
-        "HashCode": 504956333,
+        "HashCode": 1335544647,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9973,7 +9813,7 @@
         }
       },
       {
-        "HashCode": 1014036264,
+        "HashCode": -1675444091,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10056,7 +9896,7 @@
         }
       },
       {
-        "HashCode": -1599129910,
+        "HashCode": -1302651198,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10139,7 +9979,7 @@
         }
       },
       {
-        "HashCode": 1492645205,
+        "HashCode": 1440721047,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10222,7 +10062,7 @@
         }
       },
       {
-        "HashCode": -481704834,
+        "HashCode": -2134166783,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10305,7 +10145,7 @@
         }
       },
       {
-        "HashCode": -67521569,
+        "HashCode": -975341096,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10388,7 +10228,7 @@
         }
       },
       {
-        "HashCode": 1477889175,
+        "HashCode": -1566352773,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10471,7 +10311,7 @@
         }
       },
       {
-        "HashCode": 728020995,
+        "HashCode": 677792079,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10554,7 +10394,7 @@
         }
       },
       {
-        "HashCode": -177966863,
+        "HashCode": -631631956,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10637,7 +10477,7 @@
         }
       },
       {
-        "HashCode": -526952083,
+        "HashCode": -662738510,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10720,7 +10560,7 @@
         }
       },
       {
-        "HashCode": -1124451698,
+        "HashCode": 1054960711,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10803,7 +10643,7 @@
         }
       },
       {
-        "HashCode": -1655274668,
+        "HashCode": -588673524,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10886,7 +10726,7 @@
         }
       },
       {
-        "HashCode": -1167288881,
+        "HashCode": 1226944687,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10969,7 +10809,7 @@
         }
       },
       {
-        "HashCode": -1215055813,
+        "HashCode": 22040336,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11052,7 +10892,7 @@
         }
       },
       {
-        "HashCode": -1794337406,
+        "HashCode": -1614806887,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11135,7 +10975,7 @@
         }
       },
       {
-        "HashCode": 578717827,
+        "HashCode": 1295471453,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11218,7 +11058,7 @@
         }
       },
       {
-        "HashCode": 1082428022,
+        "HashCode": -1695744177,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11301,7 +11141,7 @@
         }
       },
       {
-        "HashCode": -258983290,
+        "HashCode": 1396244009,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11384,7 +11224,7 @@
         }
       },
       {
-        "HashCode": -1197307622,
+        "HashCode": -993888726,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11467,7 +11307,7 @@
         }
       },
       {
-        "HashCode": -1864616303,
+        "HashCode": -1027583433,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11550,7 +11390,7 @@
         }
       },
       {
-        "HashCode": -874147043,
+        "HashCode": 1321103957,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11633,7 +11473,7 @@
         }
       },
       {
-        "HashCode": 1319468638,
+        "HashCode": 2144981723,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11716,7 +11556,7 @@
         }
       },
       {
-        "HashCode": -2031158144,
+        "HashCode": 592106236,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11799,7 +11639,7 @@
         }
       },
       {
-        "HashCode": 1878019255,
+        "HashCode": 1965297600,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11882,7 +11722,7 @@
         }
       },
       {
-        "HashCode": 1357512744,
+        "HashCode": -1452442505,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11965,7 +11805,7 @@
         }
       },
       {
-        "HashCode": 973769439,
+        "HashCode": 1922443548,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12048,7 +11888,7 @@
         }
       },
       {
-        "HashCode": -1974064651,
+        "HashCode": 1222718268,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12131,7 +11971,7 @@
         }
       },
       {
-        "HashCode": 266041256,
+        "HashCode": 2041637340,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12214,7 +12054,7 @@
         }
       },
       {
-        "HashCode": 713765496,
+        "HashCode": -2035439191,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12297,7 +12137,7 @@
         }
       },
       {
-        "HashCode": -2084138218,
+        "HashCode": 551435878,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12380,7 +12220,7 @@
         }
       },
       {
-        "HashCode": 705821476,
+        "HashCode": 1379775345,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12463,7 +12303,7 @@
         }
       },
       {
-        "HashCode": -1144156055,
+        "HashCode": 1155489259,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12546,7 +12386,7 @@
         }
       },
       {
-        "HashCode": -560859690,
+        "HashCode": 1240723890,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12629,7 +12469,7 @@
         }
       },
       {
-        "HashCode": 2071378770,
+        "HashCode": 1101518801,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12712,7 +12552,7 @@
         }
       },
       {
-        "HashCode": -1564862164,
+        "HashCode": 567935461,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12795,7 +12635,7 @@
         }
       },
       {
-        "HashCode": -719819163,
+        "HashCode": -1034640553,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12878,7 +12718,7 @@
         }
       },
       {
-        "HashCode": -701475361,
+        "HashCode": 1813743929,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12961,7 +12801,7 @@
         }
       },
       {
-        "HashCode": -2115002774,
+        "HashCode": -259950944,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13044,7 +12884,7 @@
         }
       },
       {
-        "HashCode": 1355103785,
+        "HashCode": -1138036002,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13127,7 +12967,7 @@
         }
       },
       {
-        "HashCode": 450137138,
+        "HashCode": 1084342958,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13210,7 +13050,7 @@
         }
       },
       {
-        "HashCode": 1041012561,
+        "HashCode": 1463412532,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13293,7 +13133,7 @@
         }
       },
       {
-        "HashCode": 114249622,
+        "HashCode": -1966232043,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13376,7 +13216,7 @@
         }
       },
       {
-        "HashCode": -1735492921,
+        "HashCode": -910969514,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13459,7 +13299,7 @@
         }
       },
       {
-        "HashCode": -855584721,
+        "HashCode": 1353475591,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13542,7 +13382,7 @@
         }
       },
       {
-        "HashCode": -391954483,
+        "HashCode": -1232706331,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13625,7 +13465,7 @@
         }
       },
       {
-        "HashCode": -433045880,
+        "HashCode": 1212204881,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13708,7 +13548,7 @@
         }
       },
       {
-        "HashCode": 1455924996,
+        "HashCode": -534970568,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13791,7 +13631,7 @@
         }
       },
       {
-        "HashCode": 352876566,
+        "HashCode": -1796170774,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13830,7 +13670,7 @@
         }
       },
       {
-        "HashCode": 596550799,
+        "HashCode": 1731818514,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -14147,7 +13987,7 @@
         }
       },
       {
-        "HashCode": 1400143460,
+        "HashCode": 1325800804,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14346,7 +14186,7 @@
         }
       },
       {
-        "HashCode": -550592298,
+        "HashCode": -1822149921,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14475,7 +14315,7 @@
         }
       },
       {
-        "HashCode": -1250972502,
+        "HashCode": -510324711,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14532,7 +14372,7 @@
         }
       },
       {
-        "HashCode": 963607649,
+        "HashCode": 103856038,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14666,7 +14506,7 @@
         }
       },
       {
-        "HashCode": 2055864209,
+        "HashCode": 2033023478,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14714,7 +14554,7 @@
         }
       },
       {
-        "HashCode": -2115841746,
+        "HashCode": 1815772851,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15133,7 +14973,7 @@
         }
       },
       {
-        "HashCode": 1671531442,
+        "HashCode": 2139994115,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15237,7 +15077,7 @@
         }
       },
       {
-        "HashCode": -934993960,
+        "HashCode": -133893407,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15285,7 +15125,7 @@
         }
       },
       {
-        "HashCode": 1844702409,
+        "HashCode": -1449702217,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15357,7 +15197,7 @@
         }
       },
       {
-        "HashCode": -1547905472,
+        "HashCode": 2092536844,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15392,7 +15232,7 @@
         }
       },
       {
-        "HashCode": -149280579,
+        "HashCode": -903714070,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15590,7 +15430,7 @@
         }
       },
       {
-        "HashCode": 1665824686,
+        "HashCode": 1441172339,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15620,7 +15460,7 @@
         }
       },
       {
-        "HashCode": 984347517,
+        "HashCode": -1387852613,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15703,7 +15543,7 @@
         }
       },
       {
-        "HashCode": 1069829782,
+        "HashCode": -1736637878,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15734,7 +15574,7 @@
         }
       },
       {
-        "HashCode": -1285724883,
+        "HashCode": 1422661907,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15889,7 +15729,7 @@
         }
       },
       {
-        "HashCode": -1786073042,
+        "HashCode": 518449079,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15950,7 +15790,7 @@
         }
       },
       {
-        "HashCode": -923699382,
+        "HashCode": -1006120032,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15994,7 +15834,7 @@
         }
       },
       {
-        "HashCode": 1432008104,
+        "HashCode": 1193455387,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16029,7 +15869,7 @@
         }
       },
       {
-        "HashCode": 458084029,
+        "HashCode": -1926899187,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16065,7 +15905,7 @@
         }
       },
       {
-        "HashCode": 278404736,
+        "HashCode": 913693692,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16161,7 +16001,7 @@
         }
       },
       {
-        "HashCode": 840713568,
+        "HashCode": -189737403,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16283,7 +16123,7 @@
         }
       },
       {
-        "HashCode": 2045724579,
+        "HashCode": -472205456,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16405,7 +16245,7 @@
         }
       },
       {
-        "HashCode": 972878280,
+        "HashCode": 406992438,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16538,7 +16378,7 @@
         }
       },
       {
-        "HashCode": 1933131879,
+        "HashCode": 1110861789,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16671,7 +16511,7 @@
         }
       },
       {
-        "HashCode": 387458929,
+        "HashCode": -1151955794,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16804,7 +16644,7 @@
         }
       },
       {
-        "HashCode": 1909464921,
+        "HashCode": -156455745,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16937,7 +16777,7 @@
         }
       },
       {
-        "HashCode": 687423257,
+        "HashCode": 1559120260,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17070,7 +16910,7 @@
         }
       },
       {
-        "HashCode": -62410277,
+        "HashCode": -1682322299,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17203,7 +17043,7 @@
         }
       },
       {
-        "HashCode": 452201223,
+        "HashCode": -1194570914,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17336,7 +17176,7 @@
         }
       },
       {
-        "HashCode": 1579385318,
+        "HashCode": 628777855,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17469,7 +17309,7 @@
         }
       },
       {
-        "HashCode": 578108344,
+        "HashCode": 1877928527,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17602,7 +17442,7 @@
         }
       },
       {
-        "HashCode": -1177336393,
+        "HashCode": 1955639424,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17735,7 +17575,7 @@
         }
       },
       {
-        "HashCode": 28851849,
+        "HashCode": 2114648527,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17868,7 +17708,7 @@
         }
       },
       {
-        "HashCode": -1616908607,
+        "HashCode": 1234184184,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18001,7 +17841,7 @@
         }
       },
       {
-        "HashCode": 1861667947,
+        "HashCode": 1099119767,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18123,7 +17963,7 @@
         }
       },
       {
-        "HashCode": 327905544,
+        "HashCode": -34392171,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18245,7 +18085,180 @@
         }
       },
       {
-        "HashCode": -1574077686,
+        "HashCode": 1972205632,
+        "Kind": "Components.Bind",
+        "Name": "BlazorSample.Shared.data_binding.ChildBind",
+        "AssemblyName": "BlazorSample",
+        "Documentation": "Binds the provided expression to the 'Year' property and a change event delegate to the 'YearChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildBind",
+            "Attributes": [
+              {
+                "Name": "@bind-Year",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "ChildBind",
+            "Attributes": [
+              {
+                "Name": "@bind-Year:get",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              },
+              {
+                "Name": "@bind-Year:set",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Year",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Documentation": "Binds the provided expression to the 'Year' property and a change event delegate to the 'YearChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Year"
+            },
+            "BoundAttributeParameters": [
+              {
+                "Name": "get",
+                "TypeName": "System.Object",
+                "Documentation": "Specifies the expression to use for binding the value to the attribute.",
+                "Metadata": {
+                  "Common.PropertyName": "Get",
+                  "Components.Bind.AlternativeNotation": "True"
+                }
+              },
+              {
+                "Name": "set",
+                "TypeName": "System.Delegate",
+                "Documentation": "Specifies the expression to use for updating the bound value when a new value is available.",
+                "Metadata": {
+                  "Common.PropertyName": "Set"
+                }
+              },
+              {
+                "Name": "after",
+                "TypeName": "System.Delegate",
+                "Documentation": "Specifies an action to run after the new value has been set.",
+                "Metadata": {
+                  "Common.PropertyName": "After"
+                }
+              }
+            ]
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.data_binding.ChildBind",
+          "Common.TypeNameIdentifier": "ChildBind",
+          "Common.TypeNamespace": "BlazorSample.Shared.data_binding",
+          "Components.Bind.ChangeAttribute": "YearChanged",
+          "Components.Bind.ValueAttribute": "Year",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 401559192,
+        "Kind": "Components.Bind",
+        "Name": "BlazorSample.Shared.data_binding.ChildBind",
+        "AssemblyName": "BlazorSample",
+        "Documentation": "Binds the provided expression to the 'Year' property and a change event delegate to the 'YearChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSample.Shared.data_binding.ChildBind",
+            "Attributes": [
+              {
+                "Name": "@bind-Year",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "BlazorSample.Shared.data_binding.ChildBind",
+            "Attributes": [
+              {
+                "Name": "@bind-Year:get",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              },
+              {
+                "Name": "@bind-Year:set",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Year",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Documentation": "Binds the provided expression to the 'Year' property and a change event delegate to the 'YearChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Year"
+            },
+            "BoundAttributeParameters": [
+              {
+                "Name": "get",
+                "TypeName": "System.Object",
+                "Documentation": "Specifies the expression to use for binding the value to the attribute.",
+                "Metadata": {
+                  "Common.PropertyName": "Get",
+                  "Components.Bind.AlternativeNotation": "True"
+                }
+              },
+              {
+                "Name": "set",
+                "TypeName": "System.Delegate",
+                "Documentation": "Specifies the expression to use for updating the bound value when a new value is available.",
+                "Metadata": {
+                  "Common.PropertyName": "Set"
+                }
+              },
+              {
+                "Name": "after",
+                "TypeName": "System.Delegate",
+                "Documentation": "Specifies an action to run after the new value has been set.",
+                "Metadata": {
+                  "Common.PropertyName": "After"
+                }
+              }
+            ]
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorSample.Shared.data_binding.ChildBind",
+          "Common.TypeNameIdentifier": "ChildBind",
+          "Common.TypeNamespace": "BlazorSample.Shared.data_binding",
+          "Components.Bind.ChangeAttribute": "YearChanged",
+          "Components.Bind.ValueAttribute": "Year",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 197360292,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18332,7 +18345,7 @@
         }
       },
       {
-        "HashCode": -1485189736,
+        "HashCode": -2048968324,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18420,7 +18433,7 @@
         }
       },
       {
-        "HashCode": 2002568503,
+        "HashCode": -1493085467,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18507,7 +18520,7 @@
         }
       },
       {
-        "HashCode": 361717252,
+        "HashCode": -786545410,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18595,7 +18608,7 @@
         }
       },
       {
-        "HashCode": -1033844688,
+        "HashCode": 416568181,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18682,7 +18695,7 @@
         }
       },
       {
-        "HashCode": -1354897984,
+        "HashCode": 1928232836,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18770,7 +18783,7 @@
         }
       },
       {
-        "HashCode": 1473817410,
+        "HashCode": -352889936,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18857,7 +18870,7 @@
         }
       },
       {
-        "HashCode": -1225538025,
+        "HashCode": -841207284,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18945,7 +18958,7 @@
         }
       },
       {
-        "HashCode": 266864025,
+        "HashCode": -1828379930,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19032,7 +19045,7 @@
         }
       },
       {
-        "HashCode": 390567746,
+        "HashCode": 152699238,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19120,7 +19133,7 @@
         }
       },
       {
-        "HashCode": 77976193,
+        "HashCode": 170126120,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19207,7 +19220,7 @@
         }
       },
       {
-        "HashCode": 2107550880,
+        "HashCode": -792277510,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19295,7 +19308,7 @@
         }
       },
       {
-        "HashCode": 1557734055,
+        "HashCode": 1207992320,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19382,7 +19395,7 @@
         }
       },
       {
-        "HashCode": 577312532,
+        "HashCode": 1884962467,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19470,7 +19483,7 @@
         }
       },
       {
-        "HashCode": 1386191925,
+        "HashCode": 1316077718,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19509,7 +19522,7 @@
         }
       },
       {
-        "HashCode": 37420443,
+        "HashCode": -614668163,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19553,748 +19566,748 @@
   "RootNamespace": "BlazorSample",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\FetchData.razor",
-      "TargetPath": "Pages\\lifecycle\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\MarkupStringExample.razor",
-      "TargetPath": "Pages\\index\\MarkupStringExample.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample7.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample7.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample2.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\ParameterChild.razor",
-      "TargetPath": "Shared\\index\\ParameterChild.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\BindTheory.razor",
-      "TargetPath": "Pages\\data-binding\\BindTheory.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\ControlRender.razor",
-      "TargetPath": "Pages\\rendering\\ControlRender.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\AttributeOrderChild1.razor",
-      "TargetPath": "Shared\\index\\AttributeOrderChild1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\RocketLab.razor",
-      "TargetPath": "Shared\\dynamiccomponent\\RocketLab.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample5.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample5.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\ProductionsLayout.razor",
-      "TargetPath": "Shared\\layouts\\ProductionsLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample6.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample6.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets4.razor",
-      "TargetPath": "Pages\\templated-components\\Pets4.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample5.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample5.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\Heading.razor",
-      "TargetPath": "Shared\\index\\Heading.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\AfterRender.razor",
-      "TargetPath": "Pages\\lifecycle\\AfterRender.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ConditionalAttribute.razor",
-      "TargetPath": "Pages\\index\\ConditionalAttribute.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\file-downloads\\FileDownload1.razor",
-      "TargetPath": "Pages\\file-downloads\\FileDownload1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample4.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample4.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\DoctorWhoLayout2.razor",
-      "TargetPath": "Shared\\layouts\\DoctorWhoLayout2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\PasswordBinding.razor",
-      "TargetPath": "Pages\\data-binding\\PasswordBinding.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Parent1.razor",
-      "TargetPath": "Pages\\data-binding\\Parent1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Bind.razor",
-      "TargetPath": "Pages\\data-binding\\Bind.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\Example.razor",
-      "TargetPath": "Pages\\routing\\Example.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\advanced-scenarios\\PetDetails.razor",
-      "TargetPath": "Shared\\advanced-scenarios\\PetDetails.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\layouts\\App1.razor",
-      "TargetPath": "layouts\\App1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\images\\ShowImage1.razor",
-      "TargetPath": "Pages\\images\\ShowImage1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ExpanderExample.razor",
-      "TargetPath": "Pages\\index\\ExpanderExample.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample1.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample4.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample4.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent2.razor",
-      "TargetPath": "Pages\\index\\ParameterParent2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\PeopleExample.razor",
-      "TargetPath": "Pages\\index\\PeopleExample.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\RenderFragmentChild.razor",
-      "TargetPath": "Shared\\index\\RenderFragmentChild.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\NestedChild.razor",
-      "TargetPath": "Shared\\data-binding\\NestedChild.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\RouteParameter.razor",
-      "TargetPath": "Pages\\index\\RouteParameter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample3.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\control-head-content\\ControlHeadContent.razor",
-      "TargetPath": "Pages\\control-head-content\\ControlHeadContent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent3.razor",
-      "TargetPath": "Pages\\index\\ParameterParent3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample8.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample8.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\DateBinding.razor",
-      "TargetPath": "Pages\\data-binding\\DateBinding.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\CounterState2.razor",
-      "TargetPath": "Pages\\rendering\\CounterState2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\SetParamsAsync.razor",
-      "TargetPath": "Pages\\lifecycle\\SetParamsAsync.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets2.razor",
-      "TargetPath": "Pages\\templated-components\\Pets2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\RenderFragmentParent.razor",
-      "TargetPath": "Pages\\index\\RenderFragmentParent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\RazorTemplate.razor",
-      "TargetPath": "Pages\\index\\RazorTemplate.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload2.razor",
-      "TargetPath": "Pages\\file-uploads\\FileUpload2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample2.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample4.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample4.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\host-and-deploy\\MeasureLatency.razor",
-      "TargetPath": "Shared\\host-and-deploy\\MeasureLatency.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample7.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample7.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload3.razor",
-      "TargetPath": "Pages\\file-uploads\\FileUpload3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReceiveNotifications.razor",
-      "TargetPath": "Pages\\index\\ReceiveNotifications.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\MainLayout.razor",
-      "TargetPath": "Shared\\layouts\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\NestedGrandchild.razor",
-      "TargetPath": "Shared\\data-binding\\NestedGrandchild.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\forms-and-validation\\CustomInputText.razor",
-      "TargetPath": "Shared\\forms-and-validation\\CustomInputText.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample5.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample5.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample3.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\CallJsExample7.razor",
-      "TargetPath": "Pages\\CallJsExample7.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\Details.razor",
-      "TargetPath": "Shared\\index\\Details.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\build-a-blazor-app\\Todo.razor",
-      "TargetPath": "Pages\\build-a-blazor-app\\Todo.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample7.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample7.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent.razor",
-      "TargetPath": "Pages\\index\\ParameterParent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\HeadingExample.razor",
-      "TargetPath": "Pages\\index\\HeadingExample.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample3.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\User.razor",
-      "TargetPath": "Pages\\routing\\User.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\BadExpander.razor",
-      "TargetPath": "Shared\\index\\BadExpander.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\AttributeOrderParent2.razor",
-      "TargetPath": "Pages\\index\\AttributeOrderParent2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\ChildBind.razor",
-      "TargetPath": "Shared\\data-binding\\ChildBind.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\PasswordEntry2.razor",
-      "TargetPath": "Shared\\data-binding\\PasswordEntry2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample8.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample8.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets3.razor",
-      "TargetPath": "Pages\\templated-components\\Pets3.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
-      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\RouteParameter1.razor",
-      "TargetPath": "Pages\\routing\\RouteParameter1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
-      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\Calculator.razor",
-      "TargetPath": "Pages\\Calculator.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\AttributeOrderChild2.razor",
-      "TargetPath": "Shared\\index\\AttributeOrderChild2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\routing\\App2.razor",
-      "TargetPath": "routing\\App2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample8.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample8.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\UnparsableValues.razor",
-      "TargetPath": "Pages\\data-binding\\UnparsableValues.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample6.razor",
-      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample6.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
-      "TargetPath": "Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\call-dotnet-from-js\\ListItem2.razor",
-      "TargetPath": "Shared\\call-dotnet-from-js\\ListItem2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\prerendering\\PrerenderedInterop1.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\prerendering\\PrerenderedInterop1.razor",
       "TargetPath": "Pages\\prerendering\\PrerenderedInterop1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReferenceParent2.razor",
-      "TargetPath": "Pages\\index\\ReferenceParent2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample9.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample9.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets1.razor",
-      "TargetPath": "Pages\\templated-components\\Pets1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\logging\\Counter1.razor",
-      "TargetPath": "Pages\\logging\\Counter1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\routing\\App1.razor",
-      "TargetPath": "routing\\App1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\Markup.razor",
-      "TargetPath": "Pages\\index\\Markup.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Parent2.razor",
-      "TargetPath": "Pages\\data-binding\\Parent2.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\NestedGrandchild.razor",
+      "TargetPath": "Shared\\data-binding\\NestedGrandchild.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\RouteParameter2.razor",
-      "TargetPath": "Pages\\routing\\RouteParameter2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\Navigate.razor",
-      "TargetPath": "Pages\\routing\\Navigate.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\DoctorWhoLayout.razor",
-      "TargetPath": "Shared\\layouts\\DoctorWhoLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\HelloWorld.razor",
-      "TargetPath": "Pages\\index\\HelloWorld.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\AttributeOrderParent1.razor",
-      "TargetPath": "Pages\\index\\AttributeOrderParent1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\advanced-scenarios\\BuiltContent.razor",
-      "TargetPath": "Pages\\advanced-scenarios\\BuiltContent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample1.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\CounterPartialClass.razor",
-      "TargetPath": "Pages\\index\\CounterPartialClass.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\DecimalBinding.razor",
-      "TargetPath": "Pages\\data-binding\\DecimalBinding.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\Parent.razor",
-      "TargetPath": "Pages\\event-handling\\Parent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReferenceParent1.razor",
-      "TargetPath": "Pages\\index\\ReferenceParent1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample2.razor",
-      "TargetPath": "Pages\\event-handling\\EventHandlerExample2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\OnParamsSet.razor",
-      "TargetPath": "Pages\\lifecycle\\OnParamsSet.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
-      "TargetPath": "Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\BackgroundWork.razor",
-      "TargetPath": "Pages\\lifecycle\\BackgroundWork.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\CatchAll.razor",
-      "TargetPath": "Pages\\routing\\CatchAll.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\SpaceX.razor",
-      "TargetPath": "Shared\\dynamiccomponent\\SpaceX.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\CounterState1.razor",
-      "TargetPath": "Pages\\rendering\\CounterState1.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\ReferenceChild.razor",
-      "TargetPath": "Shared\\index\\ReferenceChild.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\layouts\\Episodes.razor",
-      "TargetPath": "Pages\\layouts\\Episodes.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
-      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample11.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample11.razor",
       "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample11.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\App.razor",
-      "TargetPath": "App.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample3.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample3.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload1.razor",
-      "TargetPath": "Pages\\file-uploads\\FileUpload1.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\AttributeOrderChild1.razor",
+      "TargetPath": "Shared\\index\\AttributeOrderChild1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\build-a-blazor-app\\NavMenu.razor",
-      "TargetPath": "Shared\\build-a-blazor-app\\NavMenu.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample1.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\BindEvent.razor",
-      "TargetPath": "Pages\\data-binding\\BindEvent.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\Markup.razor",
+      "TargetPath": "Pages\\index\\Markup.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\templated-components\\TableTemplate.razor",
-      "TargetPath": "Shared\\templated-components\\TableTemplate.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample5.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample5.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\handle-errors\\ProductDetails.razor",
-      "TargetPath": "Pages\\handle-errors\\ProductDetails.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\UnparsableValues.razor",
+      "TargetPath": "Pages\\data-binding\\UnparsableValues.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample1.razor",
-      "TargetPath": "Pages\\forms-and-validation\\FormExample1.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample8.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample8.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\VirginGalactic.razor",
-      "TargetPath": "Shared\\dynamiccomponent\\VirginGalactic.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets4.razor",
+      "TargetPath": "Pages\\templated-components\\Pets4.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\layouts\\DoctorWhoLayout.razor",
-      "TargetPath": "Pages\\layouts\\DoctorWhoLayout.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\RouteParameter1.razor",
+      "TargetPath": "Pages\\routing\\RouteParameter1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\file-downloads\\FileDownload2.razor",
-      "TargetPath": "Pages\\file-downloads\\FileDownload2.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample8.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample8.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\index\\Expander.razor",
-      "TargetPath": "Shared\\index\\Expander.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\DateBinding.razor",
+      "TargetPath": "Pages\\data-binding\\DateBinding.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\dependency-injection\\CustomerList.razor",
-      "TargetPath": "Pages\\dependency-injection\\CustomerList.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample4.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample4.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\call-dotnet-from-js\\ListItem1.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample3.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample1.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample3.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\file-downloads\\FileDownload1.razor",
+      "TargetPath": "Pages\\file-downloads\\FileDownload1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\DoctorWhoLayout.razor",
+      "TargetPath": "Shared\\layouts\\DoctorWhoLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\Navigate.razor",
+      "TargetPath": "Pages\\routing\\Navigate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\layouts\\Episodes.razor",
+      "TargetPath": "Pages\\layouts\\Episodes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\Heading.razor",
+      "TargetPath": "Shared\\index\\Heading.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample6.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\call-dotnet-from-js\\ListItem1.razor",
       "TargetPath": "Shared\\call-dotnet-from-js\\ListItem1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\images\\ShowImage2.razor",
-      "TargetPath": "Pages\\images\\ShowImage2.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\ParameterChild.razor",
+      "TargetPath": "Shared\\index\\ParameterChild.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\Splat.razor",
-      "TargetPath": "Pages\\index\\Splat.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\User.razor",
+      "TargetPath": "Pages\\routing\\User.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\OnInit.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
+      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets2.razor",
+      "TargetPath": "Pages\\templated-components\\Pets2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample6.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\OnInit.razor",
       "TargetPath": "Pages\\lifecycle\\OnInit.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\routing\\BlazorRoute.razor",
-      "TargetPath": "Pages\\routing\\BlazorRoute.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\build-a-blazor-app\\Todo.razor",
+      "TargetPath": "Pages\\build-a-blazor-app\\Todo.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
-      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\Details.razor",
+      "TargetPath": "Shared\\index\\Details.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\logging\\Counter2.razor",
-      "TargetPath": "Pages\\logging\\Counter2.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\routing\\App1.razor",
+      "TargetPath": "routing\\App1.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
-      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\SpaceX.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\SpaceX.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\index\\BlazorRocks.razor",
-      "TargetPath": "Pages\\index\\BlazorRocks.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\file-downloads\\FileDownload2.razor",
+      "TargetPath": "Pages\\file-downloads\\FileDownload2.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\AfterRender.razor",
+      "TargetPath": "Pages\\lifecycle\\AfterRender.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\PasswordEntry.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\PasswordEntry.razor",
       "TargetPath": "Shared\\data-binding\\PasswordEntry.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Pages\\prerendering\\PrerenderedInterop2.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample6.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ConditionalAttribute.razor",
+      "TargetPath": "Pages\\index\\ConditionalAttribute.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\RazorTemplate.razor",
+      "TargetPath": "Pages\\index\\RazorTemplate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\RocketLab.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\RocketLab.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\RocketLabWithWindowSeat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample5.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\BlazorRoute.razor",
+      "TargetPath": "Pages\\routing\\BlazorRoute.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ExpanderExample.razor",
+      "TargetPath": "Pages\\index\\ExpanderExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample1.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\HelloWorld.razor",
+      "TargetPath": "Pages\\index\\HelloWorld.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\host-and-deploy\\MeasureLatency.razor",
+      "TargetPath": "Shared\\host-and-deploy\\MeasureLatency.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\RouteParameter.razor",
+      "TargetPath": "Pages\\index\\RouteParameter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\images\\ShowImage2.razor",
+      "TargetPath": "Pages\\images\\ShowImage2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\SetParamsAsync.razor",
+      "TargetPath": "Pages\\lifecycle\\SetParamsAsync.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Bind.razor",
+      "TargetPath": "Pages\\data-binding\\Bind.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\OnParamsSet.razor",
+      "TargetPath": "Pages\\lifecycle\\OnParamsSet.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\PasswordEntry2.razor",
+      "TargetPath": "Shared\\data-binding\\PasswordEntry2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\CounterState1.razor",
+      "TargetPath": "Pages\\rendering\\CounterState1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\Expander.razor",
+      "TargetPath": "Shared\\index\\Expander.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReferenceParent2.razor",
+      "TargetPath": "Pages\\index\\ReferenceParent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\ReferenceChild.razor",
+      "TargetPath": "Shared\\index\\ReferenceChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\BlazorRocks.razor",
+      "TargetPath": "Pages\\index\\BlazorRocks.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload2.razor",
+      "TargetPath": "Pages\\file-uploads\\FileUpload2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample2.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\call-dotnet-from-js\\ListItem2.razor",
+      "TargetPath": "Shared\\call-dotnet-from-js\\ListItem2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\AttributeOrderChild2.razor",
+      "TargetPath": "Shared\\index\\AttributeOrderChild2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload1.razor",
+      "TargetPath": "Pages\\file-uploads\\FileUpload1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\CounterState2.razor",
+      "TargetPath": "Pages\\rendering\\CounterState2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\RenderFragmentParent.razor",
+      "TargetPath": "Pages\\index\\RenderFragmentParent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample2.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\logging\\Counter1.razor",
+      "TargetPath": "Pages\\logging\\Counter1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\DoctorWhoLayout2.razor",
+      "TargetPath": "Shared\\layouts\\DoctorWhoLayout2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Parent1.razor",
+      "TargetPath": "Pages\\data-binding\\Parent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\layouts\\App1.razor",
+      "TargetPath": "layouts\\App1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\images\\ShowImage1.razor",
+      "TargetPath": "Pages\\images\\ShowImage1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\BackgroundWork.razor",
+      "TargetPath": "Pages\\lifecycle\\BackgroundWork.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\AttributeOrderParent1.razor",
+      "TargetPath": "Pages\\index\\AttributeOrderParent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\UnitedLaunchAlliance.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\routing\\App2.razor",
+      "TargetPath": "routing\\App2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\RouteParameter2.razor",
+      "TargetPath": "Pages\\routing\\RouteParameter2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\HeadingExample.razor",
+      "TargetPath": "Pages\\index\\HeadingExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent3.razor",
+      "TargetPath": "Pages\\index\\ParameterParent3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\BindEvent.razor",
+      "TargetPath": "Pages\\data-binding\\BindEvent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\DecimalBinding.razor",
+      "TargetPath": "Pages\\data-binding\\DecimalBinding.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\PasswordBinding.razor",
+      "TargetPath": "Pages\\data-binding\\PasswordBinding.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\FetchData.razor",
+      "TargetPath": "Pages\\lifecycle\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
+      "TargetPath": "Pages\\lifecycle\\CounterWithTimerDisposal2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\prerendering\\PrerenderedInterop2.razor",
       "TargetPath": "Pages\\prerendering\\PrerenderedInterop2.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\Shared\\event-handling\\Child.razor",
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\logging\\Counter2.razor",
+      "TargetPath": "Pages\\logging\\Counter2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReceiveNotifications.razor",
+      "TargetPath": "Pages\\index\\ReceiveNotifications.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample7.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\BindTheory.razor",
+      "TargetPath": "Pages\\data-binding\\BindTheory.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\Parent.razor",
+      "TargetPath": "Pages\\event-handling\\Parent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\MainLayout.razor",
+      "TargetPath": "Shared\\layouts\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\handle-errors\\ProductDetails.razor",
+      "TargetPath": "Pages\\handle-errors\\ProductDetails.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets3.razor",
+      "TargetPath": "Pages\\templated-components\\Pets3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\PeopleExample.razor",
+      "TargetPath": "Pages\\index\\PeopleExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
+      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample8.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample8.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\build-a-blazor-app\\NavMenu.razor",
+      "TargetPath": "Shared\\build-a-blazor-app\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\NestedChild.razor",
+      "TargetPath": "Shared\\data-binding\\NestedChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\Example.razor",
+      "TargetPath": "Pages\\routing\\Example.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample2.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ReferenceParent1.razor",
+      "TargetPath": "Pages\\index\\ReferenceParent1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample4.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
+      "TargetPath": "Pages\\dynamiccomponent\\DynamicComponentExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\dependency-injection\\CustomerList.razor",
+      "TargetPath": "Pages\\dependency-injection\\CustomerList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\layouts\\ProductionsLayout.razor",
+      "TargetPath": "Shared\\layouts\\ProductionsLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
+      "TargetPath": "Pages\\call-dotnet-from-js\\CallDotNetExample2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\rendering\\ControlRender.razor",
+      "TargetPath": "Pages\\rendering\\ControlRender.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample9.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample9.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\Splat.razor",
+      "TargetPath": "Pages\\index\\Splat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\event-handling\\Child.razor",
       "TargetPath": "Shared\\event-handling\\Child.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\file-uploads\\FileUpload3.razor",
+      "TargetPath": "Pages\\file-uploads\\FileUpload3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\forms-and-validation\\FormExample7.razor",
+      "TargetPath": "Pages\\forms-and-validation\\FormExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\Calculator.razor",
+      "TargetPath": "Pages\\Calculator.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent.razor",
+      "TargetPath": "Pages\\index\\ParameterParent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\advanced-scenarios\\BuiltContent.razor",
+      "TargetPath": "Pages\\advanced-scenarios\\BuiltContent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\call-js-from-dotnet\\CallJsExample4.razor",
+      "TargetPath": "Pages\\call-js-from-dotnet\\CallJsExample4.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\templated-components\\TableTemplate.razor",
+      "TargetPath": "Shared\\templated-components\\TableTemplate.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\data-binding\\ChildBind.razor",
+      "TargetPath": "Shared\\data-binding\\ChildBind.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\CounterPartialClass.razor",
+      "TargetPath": "Pages\\index\\CounterPartialClass.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\control-head-content\\ControlHeadContent.razor",
+      "TargetPath": "Pages\\control-head-content\\ControlHeadContent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\MarkupStringExample.razor",
+      "TargetPath": "Pages\\index\\MarkupStringExample.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\advanced-scenarios\\PetDetails.razor",
+      "TargetPath": "Shared\\advanced-scenarios\\PetDetails.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample5.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample5.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\ParameterParent2.razor",
+      "TargetPath": "Pages\\index\\ParameterParent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\CallJsExample7.razor",
+      "TargetPath": "Pages\\CallJsExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\event-handling\\EventHandlerExample7.razor",
+      "TargetPath": "Pages\\event-handling\\EventHandlerExample7.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\BadExpander.razor",
+      "TargetPath": "Shared\\index\\BadExpander.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\templated-components\\Pets1.razor",
+      "TargetPath": "Pages\\templated-components\\Pets1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\forms-and-validation\\CustomInputText.razor",
+      "TargetPath": "Shared\\forms-and-validation\\CustomInputText.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\routing\\CatchAll.razor",
+      "TargetPath": "Pages\\routing\\CatchAll.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\data-binding\\Parent2.razor",
+      "TargetPath": "Pages\\data-binding\\Parent2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\dynamiccomponent\\VirginGalactic.razor",
+      "TargetPath": "Shared\\dynamiccomponent\\VirginGalactic.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\layouts\\DoctorWhoLayout.razor",
+      "TargetPath": "Pages\\layouts\\DoctorWhoLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Shared\\index\\RenderFragmentChild.razor",
+      "TargetPath": "Shared\\index\\RenderFragmentChild.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\Pages\\index\\AttributeOrderParent2.razor",
+      "TargetPath": "Pages\\index\\AttributeOrderParent2.razor",
       "FileKind": "component"
     }
   ],

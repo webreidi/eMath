@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "KqG/fgfLBSMbDeE9EzaYMxoeh3ca04HG0A59pg6d9Uc=",
+  "Hash": "8i1yQPboaZnJAzxRZwcKBk/U/abwmcRv9EgpBv7Ykv0=",
   "Source": "CalculatorTests",
   "BasePath": "_content/CalculatorTests",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\BlazorSample.csproj",
       "Version": 2,
       "Source": "BlazorSample",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "BlazorSample\\wwwroot",
       "Source": "BlazorSample",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\AuthenticationService.js",
+      "Identity": "C:\\Users\\webreidi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\AuthenticationService.js",
       "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
       "SourceType": "Package",
-      "ContentRoot": "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\webreidi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
       "RelativePath": "AuthenticationService.js",
       "AssetKind": "All",
@@ -45,13 +45,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\.tools\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\AuthenticationService.js"
+      "OriginalItemSpec": "C:\\Users\\webreidi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\staticwebassets\\AuthenticationService.js"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "BlazorSample.bundle.scp.css",
       "AssetKind": "All",
@@ -64,13 +64,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -86,10 +86,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -105,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -124,10 +124,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -162,10 +162,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -181,10 +181,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -200,10 +200,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -219,10 +219,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -257,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -276,10 +276,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\css\\site.css",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -295,10 +295,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\favicon.png",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -314,10 +314,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\files\\quote.txt",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\files\\quote.txt",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "files/quote.txt",
       "AssetKind": "All",
@@ -333,10 +333,10 @@
       "OriginalItemSpec": "wwwroot\\files\\quote.txt"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image1.png",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image1.png",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "images/image1.png",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image1.png"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image2.png",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image2.png",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "images/image2.png",
       "AssetKind": "All",
@@ -371,10 +371,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image2.png"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image3.png",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\images\\image3.png",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "images/image3.png",
       "AssetKind": "All",
@@ -390,10 +390,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image3.png"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\mapComponent.js",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\mapComponent.js",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "mapComponent.js",
       "AssetKind": "All",
@@ -409,10 +409,10 @@
       "OriginalItemSpec": "wwwroot\\mapComponent.js"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\scripts.js",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\scripts.js",
       "SourceId": "BlazorSample",
       "SourceType": "Project",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\BlazorSample_Server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\BlazorSample_Server\\wwwroot\\",
       "BasePath": "_content/BlazorSample",
       "RelativePath": "scripts.js",
       "AssetKind": "All",
@@ -428,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\scripts.js"
     },
     {
-      "Identity": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalculatorTests.styles.css",
+      "Identity": "c:\\Users\\webreidi\\source\\repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalculatorTests.styles.css",
       "SourceId": "CalculatorTests",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\webreidi\\source\\repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CalculatorTests",
       "RelativePath": "CalculatorTests.styles.css",
       "AssetKind": "All",
@@ -444,7 +444,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\webreidi\\Source\\Repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalculatorTests.styles.css"
+      "OriginalItemSpec": "c:\\Users\\webreidi\\source\\repos\\eMath\\CalculatorTests\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalculatorTests.styles.css"
     }
   ]
 }

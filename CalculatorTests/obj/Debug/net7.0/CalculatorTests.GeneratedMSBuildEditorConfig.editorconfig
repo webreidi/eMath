@@ -9,26 +9,26 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalculatorTests
 build_property.RootNamespace = CalculatorTests
-build_property.ProjectDir = c:\Users\webreidi\Source\Repos\eMath\CalculatorTests\
+build_property.ProjectDir = c:\Users\webreidi\source\repos\eMath\CalculatorTests\
 build_property.EnableComHosting = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\webreidi\Source\Repos\eMath\CalculatorTests
+build_property.MSBuildProjectDirectory = c:\Users\webreidi\source\repos\eMath\CalculatorTests
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/webreidi/Source/Repos/eMath/CalculatorTests/CalculatorRazorTests.razor]
+[c:/Users/webreidi/source/repos/eMath/CalculatorTests/CalculatorRazorTests.razor]
 build_metadata.AdditionalFiles.TargetPath = Q2FsY3VsYXRvclJhem9yVGVzdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/Repos/eMath/CalculatorTests/Counter.razor]
+[c:/Users/webreidi/source/repos/eMath/CalculatorTests/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/Repos/eMath/CalculatorTests/CounterRazorTests.razor]
+[c:/Users/webreidi/source/repos/eMath/CalculatorTests/CounterRazorTests.razor]
 build_metadata.AdditionalFiles.TargetPath = Q291bnRlclJhem9yVGVzdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/webreidi/Source/Repos/eMath/CalculatorTests/_Imports.razor]
+[c:/Users/webreidi/source/repos/eMath/CalculatorTests/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
